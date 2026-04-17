@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/udaayy-12/VTU26529-APS/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaayy-12/VTU26529-APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/udaayy-12/VTU26529-APS/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/udaayy-12/VTU26529-APS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/udaayy-12/VTU26529-APS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/udaayy-12/VTU26529-APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/udaayy-12/VTU26529-APS/tree/master/0219-contains-duplicate-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/udaayy-12/VTU26529-APS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaayy-12/VTU26529-APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/udaayy-12/VTU26529-APS/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/udaayy-12/VTU26529-APS/tree/master/0542-01-matrix) |
 ## String
 |  |
