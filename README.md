@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/udaayy-12/VTU26529-APS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/udaayy-12/VTU26529-APS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/udaayy-12/VTU26529-APS/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/udaayy-12/VTU26529-APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/udaayy-12/VTU26529-APS/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/udaayy-12/VTU26529-APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/udaayy-12/VTU26529-APS/tree/master/0496-next-greater-element-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/udaayy-12/VTU26529-APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/udaayy-12/VTU26529-APS/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/udaayy-12/VTU26529-APS/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/udaayy-12/VTU26529-APS/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/udaayy-12/VTU26529-APS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/udaayy-12/VTU26529-APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/udaayy-12/VTU26529-APS/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/udaayy-12/VTU26529-APS/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udaayy-12/VTU26529-APS/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/udaayy-12/VTU26529-APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/udaayy-12/VTU26529-APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/udaayy-12/VTU26529-APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Tree
 |  |
@@ -363,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/udaayy-12/VTU26529-APS/tree/master/1763-longest-nice-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/udaayy-12/VTU26529-APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/udaayy-12/VTU26529-APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
