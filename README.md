@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/udaayy-12/VTU26529-APS/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/udaayy-12/VTU26529-APS/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaayy-12/VTU26529-APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/udaayy-12/VTU26529-APS/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/udaayy-12/VTU26529-APS/tree/master/0198-house-robber) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/udaayy-12/VTU26529-APS/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/udaayy-12/VTU26529-APS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/udaayy-12/VTU26529-APS/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/udaayy-12/VTU26529-APS/tree/master/0078-subsets) |
 | [1763-longest-nice-substring](https://github.com/udaayy-12/VTU26529-APS/tree/master/1763-longest-nice-substring) |
 ## Binary Indexed Tree
 |  |
