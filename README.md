@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/udaayy-12/VTU26529-APS/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/udaayy-12/VTU26529-APS/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaayy-12/VTU26529-APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/udaayy-12/VTU26529-APS/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/udaayy-12/VTU26529-APS/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/udaayy-12/VTU26529-APS/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/udaayy-12/VTU26529-APS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/udaayy-12/VTU26529-APS/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/udaayy-12/VTU26529-APS/tree/master/1480-running-sum-of-1d-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/udaayy-12/VTU26529-APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/udaayy-12/VTU26529-APS/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/udaayy-12/VTU26529-APS/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/udaayy-12/VTU26529-APS/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udaayy-12/VTU26529-APS/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/udaayy-12/VTU26529-APS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
