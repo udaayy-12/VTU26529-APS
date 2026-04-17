@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/udaayy-12/VTU26529-APS/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/udaayy-12/VTU26529-APS/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/udaayy-12/VTU26529-APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaayy-12/VTU26529-APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/udaayy-12/VTU26529-APS/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/udaayy-12/VTU26529-APS/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/udaayy-12/VTU26529-APS/tree/master/0542-01-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/udaayy-12/VTU26529-APS/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/udaayy-12/VTU26529-APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/udaayy-12/VTU26529-APS/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaayy-12/VTU26529-APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/udaayy-12/VTU26529-APS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/udaayy-12/VTU26529-APS/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/udaayy-12/VTU26529-APS/tree/master/0973-k-closest-points-to-origin) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaayy-12/VTU26529-APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/udaayy-12/VTU26529-APS/tree/master/0621-task-scheduler) |
 ## Backtracking
 |  |
