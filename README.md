@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/udaayy-12/VTU26529-APS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/udaayy-12/VTU26529-APS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/udaayy-12/VTU26529-APS/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/udaayy-12/VTU26529-APS/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -108,4 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/udaayy-12/VTU26529-APS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/udaayy-12/VTU26529-APS/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/udaayy-12/VTU26529-APS/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/udaayy-12/VTU26529-APS/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/udaayy-12/VTU26529-APS/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
